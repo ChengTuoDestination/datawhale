@@ -32,6 +32,7 @@
     梯度下降的策略是一步一步的往让loss变到最小值的方向走，直到走到那个点。
 
 ![equation1](images/equation4.svg)
+
 ![equation1](images/equation5.svg)
 
 ### 1.2. 模型性能验证
